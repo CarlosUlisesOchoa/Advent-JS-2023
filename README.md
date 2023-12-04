@@ -1,6 +1,8 @@
 # 🌟 | Advent JS 2023
 
-Por favor dale a la estrellita y sígueme en YouTube y mis redes, este repositorio me ha costado demasiadas horas de trabajo:
+AdventJS es una página web de retos de programación que ofrece una experiencia única y desafiante para los amantes del código.
+
+Inspirada en el tradicional calendario de adviento, en AdventJS cada día del mes de diciembre se revela un nuevo reto de programación en JavaScript o TypeScript.
 
 # 🎮 | Retos
 
@@ -30,10 +32,11 @@ Por favor dale a la estrellita y sígueme en YouTube y mis redes, este repositor
 |                                                                                                  | 22  | ~~~~~                                                                           |                | ~~~~~                                                                                       | ~~~~~                                                                                         |
 |                                                                                                  | 23  | ~~~~~                                                                           |                | ~~~~~                                                                                       | ~~~~~                                                                                         |
 |                                                                                                  | 24  | ~~~~~                                                                           |                | ~~~~~                                                                                       | ~~~~~                                                                                         |
-|                                                                                                  | 25  | ~~~~~                                                                           |                | ~~~~~                                                                                       | ~~~~~                                                                                         |
+|                                                                                                  | 25  | ~~~~~                                                                           |                | ~~~~~                                                                                       | ~~~~2                                                                                         |
 
-[^1]: **Dificultad**: 🟢 Facil 🟠 Media 🔴 Dificil 🟣 Muy Dificil
-[^2]: Dificultad un poco elevada
+**Dificultad**: 🟢 Facil 🟠 Media 🔴 Dificil 🟣 Muy Dificil
+
+**"[ ^2 ]"**: Dificultad un poco más elevada
 
 ## ⌨️ | Instalación
 
@@ -56,4 +59,8 @@ npm run test:n # n siendo el numero del reto, por ejemplo
 npm run test:1 # Correra el test del reto 1
 ```
 
-Gracias a @Achalogy por la plantilla para organizar las soluciones del AdventJS 2023
+## 🙏🏻 | Un agradecimiento especial para
+
+Gracias a [@midudev](https://github.com/midudev) por compartir e incentivarnos a resolver estos grandes y divertidos retos de programación
+
+Gracias a [@Achalogy](https://github.com/Achalogy) por la plantilla para organizar las soluciones del AdventJS
