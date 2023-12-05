@@ -1,0 +1,18 @@
+{
+  "compilerOptions": {
+    "target": "ESNext",
+    "module": "ESNext",
+    "outDir": "./retos/dist",
+    "rootDir": "./retos",
+    "strict": true,
+    "esModuleInterop": true,
+    "forceConsistentCasingInFileNames": true,
+    "moduleResolution": "node"
+  },
+  "include": [
+    "retos/**/*"
+  ],
+  "exclude": [
+    "node_modules"
+  ]
+}
