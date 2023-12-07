@@ -25,3 +25,7 @@ const materials = 'psli'
 
 manufacture(gifts, materials) // []
 ```
+
+# Solución
+
+[SPOILER](https://github.com/CarlosUlisesOchoa/advent-js-2023/blob/main/retos/reto-2/main.ts)
