@@ -10,7 +10,8 @@
   },
   "scripts": {
     "build": "tsc",
-    "test:1": "pnpm run build && cross-env NODE_OPTIONS=--experimental-vm-modules jest -i --bail=false ./dist/retos/reto-1/reto1.test.js"
+    "test:1": "pnpm run build && cross-env NODE_OPTIONS=--experimental-vm-modules jest -i --bail=false ./dist/retos/reto-1/reto1.test.js",
+    "test:2": "pnpm run build && cross-env NODE_OPTIONS=--experimental-vm-modules jest -i --bail=false ./dist/retos/reto-2/reto2.test.js"
   },
   "devDependencies": {
     "@types/jest": "^29.5.10",
