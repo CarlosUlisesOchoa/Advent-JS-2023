@@ -2,8 +2,9 @@
   "compilerOptions": {
     "target": "ESNext",
     "module": "ESNext",
-    "outDir": "./retos/dist",
+    "outDir": "./dist/retos",
     "rootDir": "./retos",
+    "sourceMap": true,
     "strict": true,
     "esModuleInterop": true,
     "forceConsistentCasingInFileNames": true,
@@ -13,6 +14,7 @@
     "retos/**/*"
   ],
   "exclude": [
-    "node_modules"
+    "node_modules",
+    "ignore-this-dir"
   ]
 }
