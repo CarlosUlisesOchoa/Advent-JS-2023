@@ -38,7 +38,7 @@ NOTA: Yo aún no he concluido todas las soluciones, pero las iré subiendo confo
 |                                                                                                  | 24  | ~~~~~                                                                           |                | ~~~~~                                                                              | ~~~~~                                                                                | ~~~~~ |
 |                                                                                                  | 25  | ~~~~~                                                                           |                | ~~~~~                                                                              | ~~~~~                                                                                | ~~~~~ |
 
-**Dificultad**: 🟢 Facil 🟠 Media 🔴 Dificil 🟣 Muy Dificil
+[^1]: **Dificultad**: 🟢 Facil 🟠 Media 🔴 Dificil 🟣 Muy Dificil
 
 ## ⌨️ | Instalación
 
