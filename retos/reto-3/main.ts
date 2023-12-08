@@ -10,13 +10,8 @@ export function findNaughtyStep(original: string, modified: string): string {
   for (let i = 0; i < maxLength; i++) {
     if (original[i] !== modified[i]) {
       // Si 'modified' es más largo, entonces un paso ha sido añadido.
-      if (modifiedIsLarger) {
-        return modified[i]
-      }
-      // Si 'original' es más largo, entonces un paso ha sido eliminado.
-      else {
-        return original[i]
-      }
+      // En caso contrario si 'original' es más largo, entonces un paso ha sido eliminado.
+      return modifiedIsLarger ? modified[i] : original[i]
     }
   }
 
