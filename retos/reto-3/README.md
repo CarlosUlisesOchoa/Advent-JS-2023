@@ -28,4 +28,4 @@ A tener en cuenta:
 
 # Solución
 
-[EN PROCESO](https://github.com/CarlosUlisesOchoa/advent-js-2023/blob/main/retos/reto-3/main.ts)
+[SPOILER](https://github.com/CarlosUlisesOchoa/advent-js-2023/blob/main/retos/reto-3/main.ts)
