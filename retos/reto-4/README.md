@@ -14,6 +14,9 @@ const b = decode('(olleh) (dlrow)!')
 console.log(b) // hello world!
 
 const c = decode('sa(u(cla)atn)s')
+// sa(ualcatn)s
+// sa(ualcatn)s
+// santaclaus
 console.log(c) // santaclaus
 
 // Paso a paso:
@@ -29,4 +32,4 @@ Notas:
 
 # Solución
 
-[EN PROCESO](https://github.com/CarlosUlisesOchoa/advent-js-2023/blob/main/retos/reto-4/main.ts)
+[SPOILER](https://github.com/CarlosUlisesOchoa/advent-js-2023/blob/main/retos/reto-4/main.ts)
