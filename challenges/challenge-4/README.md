@@ -32,4 +32,4 @@ Notas:
 
 # Solución
 
-[SPOILER](https://github.com/CarlosUlisesOchoa/advent-js-2023/blob/main/retos/reto-4/main.ts)
+[SPOILER](https://github.com/CarlosUlisesOchoa/advent-js-2023/blob/main/challenges/challenge-4/main.ts)

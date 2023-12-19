@@ -44,4 +44,4 @@ Los elfos se **inspiraron en este** [**reto de Code Wars**](https://www.codewars
 
 # Solución
 
-[SPOILER](https://github.com/CarlosUlisesOchoa/advent-js-2023/blob/main/retos/reto-5/main.ts)
+[SPOILER](https://github.com/CarlosUlisesOchoa/advent-js-2023/blob/main/challenges/challenge-5/main.ts)

@@ -34,4 +34,4 @@ Ten en cuenta que no importa si es a la izquierda o la derecha, la distancia es 
 
 # Solución
 
-[SPOILER](https://github.com/CarlosUlisesOchoa/advent-js-2023/blob/main/retos/reto-6/main.ts)
+[SPOILER](https://github.com/CarlosUlisesOchoa/advent-js-2023/blob/main/challenges/challenge-6/main.ts)

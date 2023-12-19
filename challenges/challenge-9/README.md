@@ -22,4 +22,4 @@ adjustLights(['🔴', '🔴', '🔴'])
 
 # Solución
 
-[SPOILER](https://github.com/CarlosUlisesOchoa/advent-js-2023/blob/main/retos/reto-9/main.ts)
+[SPOILER](https://github.com/CarlosUlisesOchoa/advent-js-2023/blob/main/challenges/challenge-9/main.ts)

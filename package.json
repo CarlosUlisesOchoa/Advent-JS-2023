@@ -10,12 +10,12 @@
   },
   "scripts": {
     "build": "tsc",
-    "test:1": "pnpm run build && cross-env NODE_OPTIONS=--experimental-vm-modules jest -i --bail=false ./dist/retos/reto-1/reto1.test.js",
-    "test:2": "pnpm run build && cross-env NODE_OPTIONS=--experimental-vm-modules jest -i --bail=false ./dist/retos/reto-2/reto2.test.js",
-    "test:3": "pnpm run build && cross-env NODE_OPTIONS=--experimental-vm-modules jest -i --bail=false ./dist/retos/reto-3/reto3.test.js",
-    "test:4": "pnpm run build && cross-env NODE_OPTIONS=--experimental-vm-modules jest -i --bail=false ./dist/retos/reto-4/reto4.test.js",
-    "test:5": "pnpm run build && cross-env NODE_OPTIONS=--experimental-vm-modules jest -i --bail=false ./dist/retos/reto-5/reto5.test.js",
-    "test:6": "pnpm run build && cross-env NODE_OPTIONS=--experimental-vm-modules jest -i --bail=false ./dist/retos/reto-6/reto6.test.js"
+    "test:1": "pnpm run build && cross-env NODE_OPTIONS=--experimental-vm-modules jest -i --bail=false ./dist/challenges/challenge-1/challenge.test.js",
+    "test:2": "pnpm run build && cross-env NODE_OPTIONS=--experimental-vm-modules jest -i --bail=false ./dist/challenges/challenge-2/challenge.test.js",
+    "test:3": "pnpm run build && cross-env NODE_OPTIONS=--experimental-vm-modules jest -i --bail=false ./dist/challenges/challenge-3/challenge.test.js",
+    "test:4": "pnpm run build && cross-env NODE_OPTIONS=--experimental-vm-modules jest -i --bail=false ./dist/challenges/challenge-4/challenge.test.js",
+    "test:5": "pnpm run build && cross-env NODE_OPTIONS=--experimental-vm-modules jest -i --bail=false ./dist/challenges/challenge-5/challenge.test.js",
+    "test:6": "pnpm run build && cross-env NODE_OPTIONS=--experimental-vm-modules jest -i --bail=false ./dist/challenges/challenge-6/challenge.test.js"
   },
   "devDependencies": {
     "@types/jest": "^29.5.10",

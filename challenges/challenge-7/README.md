@@ -44,4 +44,4 @@ Importante: Nos han dicho que **siempre hay que dejar un salto de línea al fina
 
 # Solución
 
-[SPOILER](https://github.com/CarlosUlisesOchoa/advent-js-2023/blob/main/retos/reto-7/main.ts)
+[SPOILER](https://github.com/CarlosUlisesOchoa/advent-js-2023/blob/main/challenges/challenge-7/main.ts)

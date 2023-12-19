@@ -2,8 +2,8 @@
   "compilerOptions": {
     "target": "ESNext",
     "module": "ESNext",
-    "outDir": "./dist/retos",
-    "rootDir": "./retos",
+    "outDir": "./dist/challenges",
+    "rootDir": "./challenges",
     "sourceMap": true,
     "strict": true,
     "esModuleInterop": true,
@@ -11,7 +11,7 @@
     "moduleResolution": "node"
   },
   "include": [
-    "retos/**/*"
+    "challenges/**/*"
   ],
   "exclude": [
     "node_modules",
