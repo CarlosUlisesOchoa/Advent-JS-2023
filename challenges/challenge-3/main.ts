@@ -18,3 +18,5 @@ export function findNaughtyStep(original: string, modified: string): string {
   // Si llegamos aquí, significa que el último carácter de la cadena más larga es el añadido o eliminado.
   return modifiedIsLarger ? modified[maxLength - 1] : original[maxLength - 1]
 }
+// Esta solución da: 340 puntos
+// NOTA: Se recomienda eliminar los comentarios antes de subir las soluciones

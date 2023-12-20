@@ -11,3 +11,5 @@ export function manufacture(gifts: Array<string>, materials: string): Array<stri
     return true
   })
 }
+// Esta solución da: 260 puntos
+// NOTA: Se recomienda eliminar los comentarios antes de subir las soluciones

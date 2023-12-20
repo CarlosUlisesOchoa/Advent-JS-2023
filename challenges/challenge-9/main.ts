@@ -24,3 +24,5 @@ export function adjustLights(lights: string[]): number {
   // Devuelve el menor número de cambios entre los dos patrones
   return Math.min(pattern1, pattern2)
 }
+// Esta solución da: 300 puntos
+// NOTA: Se recomienda eliminar los comentarios antes de subir las soluciones

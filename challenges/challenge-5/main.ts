@@ -44,3 +44,5 @@ export function cyberReindeer(road: string, time: number): string[] {
 
   return result
 }
+// Esta solución da: 220 puntos
+// NOTA: Se recomienda eliminar los comentarios antes de subir las soluciones

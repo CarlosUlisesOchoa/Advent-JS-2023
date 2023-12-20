@@ -44,3 +44,5 @@ export function maxDistance(movements: string): number {
   //
   return maxMovements
 }
+// Esta solución da: 330 puntos
+// NOTA: Se recomienda eliminar los comentarios antes de subir las soluciones

@@ -23,3 +23,5 @@ export function findFirstRepeated(gifts: number[]): number {
   // Retornamos el primer duplicado encontrado o -1 si no se encontró ninguno.
   return firstDuplicate
 }
+// Esta solución da: 190 puntos
+// NOTA: Se recomienda eliminar los comentarios antes de subir las soluciones

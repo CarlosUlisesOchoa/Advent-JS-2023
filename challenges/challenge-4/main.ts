@@ -22,3 +22,5 @@ export function decode(message: string): string {
   // Devuelve el mensaje decodificado
   return newMessage
 }
+// Esta solución da: 210 puntos
+// NOTA: Se recomienda eliminar los comentarios antes de subir las soluciones

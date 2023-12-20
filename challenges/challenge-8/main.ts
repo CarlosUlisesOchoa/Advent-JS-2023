@@ -37,3 +37,5 @@ export function organizeGifts(gifts: string): string {
 
   return result
 }
+// Esta solución da: 170 puntos
+// NOTA: Se recomienda eliminar los comentarios antes de subir las soluciones

@@ -53,3 +53,5 @@ export function drawGift(size: number, symbol: string): string {
   // Unimos todas las líneas en una sola cadena y la devolvemos
   return linesArray.join('')
 }
+// Esta solución da: 210 puntos
+// NOTA: Se recomienda eliminar los comentarios antes de subir las soluciones
