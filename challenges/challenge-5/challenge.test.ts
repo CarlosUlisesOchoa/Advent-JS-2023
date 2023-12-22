@@ -43,3 +43,7 @@ test("Test #06 - cyberReindeer('S.|.|.|......|.||.........', 8)", () => {
     '..*.S.*......*.**.........',
   ])
 })
+//
+// Este archivo de test fue adaptado a partir de la información disponible publicamente en adventjs.dev
+// Pruebas desarrolladas por: Miguel Ángel Durán (midu.dev)
+// Transcrito por: @Achalogy (GitHub)

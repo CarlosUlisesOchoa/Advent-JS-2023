@@ -19,3 +19,7 @@ test("Test #04 - decode('sa(u(cla)atn)s')", () => {
 test("Test #05 - decode('((nta)(sa))')", () => {
   expect(decode('((nta)(sa))')).toStrictEqual('santa')
 })
+//
+// Este archivo de test fue adaptado a partir de la información disponible publicamente en adventjs.dev
+// Pruebas desarrolladas por: Miguel Ángel Durán (midu.dev)
+// Transcrito por: @Achalogy (GitHub)

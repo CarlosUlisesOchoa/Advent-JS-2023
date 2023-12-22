@@ -19,3 +19,7 @@ test("Test #04 - findNaughtyStep('stepfor', 'stepor')", () => {
 test("Test #05 - findNaughtyStep('iiiii', 'iiiii')", () => {
   expect(findNaughtyStep('iiiii', 'iiiii')).toStrictEqual('')
 })
+//
+// Este archivo de test fue adaptado a partir de la información disponible publicamente en adventjs.dev
+// Pruebas desarrolladas por: Miguel Ángel Durán (midu.dev)
+// Transcrito por: @Achalogy (GitHub)

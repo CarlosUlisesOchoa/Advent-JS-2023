@@ -23,3 +23,7 @@ test('Test #05 - maxDistance("**********")', () => {
 test('Test #06 - maxDistance("<<**>>")', () => {
   expect(maxDistance('<<**>>')).toStrictEqual(2)
 })
+//
+// Este archivo de test fue adaptado a partir de la información disponible publicamente en adventjs.dev
+// Pruebas desarrolladas por: Miguel Ángel Durán (midu.dev)
+// Transcrito por: @Achalogy (GitHub)
