@@ -36,6 +36,6 @@ test('Test #09 - findFirstRepeated([1, 10, 2, 10, 20, 50, 7, 0, 0, 7])', () => {
   expect(findFirstRepeated([1, 10, 2, 10, 20, 50, 7, 0, 0, 7])).toStrictEqual(10)
 })
 //
-// Este archivo de test fue adaptado a partir de la información disponible publicamente en adventjs.dev
+// Este archivo de test fue adaptado a partir de la información disponible públicamente en adventjs.dev
 // Pruebas desarrolladas por: Miguel Ángel Durán (midu.dev)
 // Transcrito por: @Achalogy (GitHub)

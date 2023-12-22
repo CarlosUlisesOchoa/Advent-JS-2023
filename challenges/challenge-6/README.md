@@ -35,3 +35,9 @@ Ten en cuenta que no importa si es a la izquierda o la derecha, la distancia es 
 # Solución
 
 [SPOILER](https://github.com/CarlosUlisesOchoa/advent-js-2023/blob/main/challenges/challenge-6/main.ts)
+
+## Creditos
+
+[@midudev](https://github.com/midudev): Autor de [AdventJS](https://adventjs.dev). Gracias por compartir e incentivar a resolver estos excelentes retos de programación.
+
+[@Achalogy](https://github.com/Achalogy): Desarrollador que transcribió la descripción y los tests del reto con la información públicamente disponible en [AdventJS](https://adventjs.dev)

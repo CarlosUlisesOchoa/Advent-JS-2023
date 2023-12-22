@@ -23,3 +23,11 @@ adjustLights(['🔴', '🔴', '🔴'])
 # Solución
 
 [SPOILER](https://github.com/CarlosUlisesOchoa/advent-js-2023/blob/main/challenges/challenge-9/main.ts)
+
+## Creditos
+
+[@midudev](https://github.com/midudev): Autor de [AdventJS](https://adventjs.dev). Gracias por compartir e incentivar a resolver estos excelentes retos de programación.
+
+[@CarlosUlisesOchoa](https://carlos8a.com): Desarrollador que resolvió el reto y transcribió los tests con la información públicamente disponible en [AdventJS](https://adventjs.dev).
+
+[@Achalogy](https://github.com/Achalogy): Desarrollador que transcribió la descripción del reto con la información públicamente disponible en [AdventJS](https://adventjs.dev)
