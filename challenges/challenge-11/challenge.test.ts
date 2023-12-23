@@ -3,7 +3,7 @@ import { getIndexsForPalindrome } from './main'
 
 // Test #01
 test('Test #01 - Returns a function', () => {
-  expect(typeof getIndexsForPalindrome('anna')).toBe('function')
+  expect(typeof getIndexsForPalindrome).toBe('function')
 })
 // Test #02
 test('Test #02 - Check palindrome index for "anna"', () => {
