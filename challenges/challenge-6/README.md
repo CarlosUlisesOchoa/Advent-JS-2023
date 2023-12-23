@@ -40,4 +40,6 @@ Ten en cuenta que no importa si es a la izquierda o la derecha, la distancia es 
 
 [@midudev](https://github.com/midudev): Autor de [AdventJS](https://adventjs.dev). Gracias por compartir e incentivar a resolver estos excelentes retos de programación.
 
+[@CarlosUlisesOchoa](https://carlos8a.com): Desarrollador que resolvió y compartió la solución del reto actual.
+
 [@Achalogy](https://github.com/Achalogy): Desarrollador que transcribió la descripción y los tests del reto con la información públicamente disponible en [AdventJS](https://adventjs.dev)
